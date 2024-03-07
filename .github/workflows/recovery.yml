@@ -3,7 +3,7 @@ name: RECOVERY
 on:
   workflow_dispatch:
     inputs:
-      RECOVERY_URL:
+      RECOVERY_URL: https://we.tl/t-AzQLsiE7pD
         description: 'RECOVERY URL'
         required: true
         default: 'https://we.tl/t-AzQLsiE7pD'
